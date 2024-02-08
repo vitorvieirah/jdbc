@@ -11,6 +11,6 @@ Um projeto simples com o objetivo de praticar os conhecimentos em JDBC, sendo po
 - HikariCP
 - Lombok
 - Maven 
-- JDBC
+
 
 
