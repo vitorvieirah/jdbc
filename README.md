@@ -1,7 +1,7 @@
 # JDBC - BIBLIOTECA DE FILME
 
 ## #️⃣SOBRE 
-Um projeto simples com o objetivo de praticar os conhecimentos em JDBC, sendo possível fazer o cadastro de filme, alterar, vizualizar por código, vizualizar todos os filmes cadastrados e deletar.
+Um projeto simples com o objetivo de praticar os conhecimentos em JDBC, sendo possível fazer o cadastro de filme, alterar, visualizar por código, visualizar todos os filmes cadastrados e deletar.
 
 ## ⚒️TECNOLOGIAS
 
